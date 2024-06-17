@@ -56,7 +56,7 @@ Replace ~/your_ros2_workspace with the path to your actual ROS2 workspace.
 
 ```
 cd src
-git clone https://github.com/example/spoofing_jamming_detector.git
+git clone https://github.com/dceres1/spoofing_jamming_detector.git
 ```
 This will create a directory named spoofing_jamming_detector inside your src folder.
 
